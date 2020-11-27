@@ -12,5 +12,6 @@ import UIKit
 public class CustomPodTest: NSObject {
     public func testLog() {
         NSLog("Test CustomPodTest library. called testLog()")
+        NSLog("Updated version to 0.1.1")
     }
 }
